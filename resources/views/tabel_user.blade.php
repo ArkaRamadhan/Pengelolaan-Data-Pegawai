@@ -77,7 +77,7 @@
                                     <td><h4>: {{ $user->email }}</h4></td>
                                 </tr>
                                 <tr>
-                                    <td><h4>TEMPAT LAHIR</h4></td>
+                                    <td><h4>Usertype</h4></td>
                                     <td><h4>: {{ $user->usertype }}</h4></td>
                                 </tr>
                             </table>
